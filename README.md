@@ -4,3 +4,6 @@
 * Running KOReader on Android simulator on mac. In directory koreader/plugins create folder visualizebookgpt.koplugin and copy and paster files from repo to the plugin folder
 
 **Demo:**
+
+https://github.com/user-attachments/assets/175b9da3-4f49-44c9-b16d-7faea465168f
+
