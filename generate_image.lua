@@ -56,6 +56,7 @@ local function getUrlContent(context_prompt, url, timeout, maxtime)
 end
 
 local function generateImage(ui, highlightedText)
+  -- set your hosted model ip here
   local success, data = getUrlContent(highlightedText, "http://192.168.86.43:7860/sdapi/v1/txt2img")
 
   local img = base64.base64_to_bin(data)
